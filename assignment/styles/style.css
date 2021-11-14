@@ -1,1 +1,22 @@
 /* give your assignment a fun background color */
+body{
+  background-image: url(https://image.shutterstock.com/shutterstock/photos/1533127649/display_1500/stock-photo-happy-thanksgiving-greeting-card-poster-or-flyer-for-holiday-thanksgiving-turkey-standing-near-1533127649.jpg);
+  background-size: cover;
+  background-clip: border-box;
+}
+
+h1{
+  color: Red;
+  font-family: cursive;
+  text-align: left;
+}
+h2{
+  color: purple;
+  font-family: cursive;
+  text-align: right;
+}
+li{
+  font-family: cursive;
+  color: blue;
+  font-size: 20px;
+}
